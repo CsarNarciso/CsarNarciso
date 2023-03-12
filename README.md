@@ -6,7 +6,7 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=Spring&logoColor=black&style=for-the-badge) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=179287) ![MySQL](https://img.shields.io/badge/MySQL-F29111?style=for-the-badge&logo=mysql&logoColor=73398D)
 
 
-<img align="right" width="420" src="https://i.gifer.com/origin/22/22657b8a577f858827c5d46dac32cf53.gif" />
+<img align="right" width="370" src="https://i.gifer.com/origin/22/22657b8a577f858827c5d46dac32cf53.gif" />
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=CsarNarciso&&include_all_commits=true&count_private=true&show_icons=true&line_height=30&theme=tokyonight)  
