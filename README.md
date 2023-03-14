@@ -3,7 +3,7 @@
 ----------------------
 
 ### Im learning ♥  
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=Spring&logoColor=black&style=for-the-badge) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=179287) ![MySQL](https://img.shields.io/badge/MySQL-F29111?style=for-the-badge&logo=mysql&logoColor=73398D)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=white&style=for-the-badge) ![JavaScrip](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black) ![C Sharp](https://img.shields.io/badge/C%20Sharp-purple?style=for-the-badge&logo=C-Sharp&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white)
 
 
 <img align="right" width="370" src="https://i.gifer.com/origin/22/22657b8a577f858827c5d46dac32cf53.gif" />
@@ -23,4 +23,4 @@
 ### <img align="center" width="70" src="https://i.pinimg.com/originals/0d/c9/68/0dc968448592a7d533096b74c263cc40.gif" /> Contact whit mi 
 
 <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=cesarpazol1029@gmail.com" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/amarjit-pheiroijam-234bba166/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/cesar-pozol-narciso-b48727180/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
