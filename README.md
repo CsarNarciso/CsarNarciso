@@ -3,10 +3,8 @@
 ----------------------
 
 ### Im learning ♥  
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=white&style=for-the-badge) ![JavaScrip](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black) ![C Sharp](https://img.shields.io/badge/C%20Sharp-purple?style=for-the-badge&logo=C-Sharp&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white)
+![JavaScrip](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=white&style=for-the-badge)  
 
-
-<img align="right" width="370" src="https://i.gifer.com/origin/22/22657b8a577f858827c5d46dac32cf53.gif" />
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=CsarNarciso&&include_all_commits=true&count_private=true&show_icons=true&line_height=30&theme=tokyonight)  
@@ -16,7 +14,7 @@
 
 | Languages & Frameworks | Tools | Text editors and IDEs | Operating Systems | 
 |-|-|-|-|
-| ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=Spring&logoColor=black&style=for-the-badge) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=179287) ![MySQL](https://img.shields.io/badge/MySQL-F29111?style=for-the-badge&logo=mysql&logoColor=73398D) | ![Git](http://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=Git&logoColor=white) ![GitHub](http://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white) ![Windows console CMD](http://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=for-the-badge&logo=Windows-Terminal&logoColor=green) | ![Eclipse](https://img.shields.io/badge/Eclipse%20IDE-2C2255?logo=Eclipse-IDE&logoColor=orange&style=for-the-badge)![NetBeans](https://img.shields.io/badge/NetBeans%20IDE-FB5BC5?logo=Apache-NetBeans-IDE&logoColor=black&style=for-the-badge)![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) | ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=3D03A7) |
+| ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=Spring&logoColor=black&style=for-the-badge) ![MySQL](https://img.shields.io/badge/MySQL-F29111?style=for-the-badge&logo=mysql&logoColor=73398D) | ![Git](http://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=Git&logoColor=white) ![GitHub](http://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white) | ![Eclipse](https://img.shields.io/badge/Eclipse%20IDE-2C2255?logo=Eclipse-IDE&logoColor=orange&style=for-the-badge)![NetBeans](https://img.shields.io/badge/NetBeans%20IDE-FB5BC5?logo=Apache-NetBeans-IDE&logoColor=black&style=for-the-badge)![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) | ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=3D03A7) |
 
 ----------------------
 
