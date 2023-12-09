@@ -3,7 +3,7 @@
 ----------------------
 
 ### Im learning ♥  
-![JavaScrip](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=white&style=for-the-badge)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=PostgreSQL&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=DockerL&logoColor=black)
 
 
 
