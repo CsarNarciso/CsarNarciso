@@ -17,11 +17,11 @@
 ![Agile](https://img.shields.io/badge/Agile%20Architecture-white?style=for-the-badge) 
 ![Grafana](https://img.shields.io/badge/Grafana-white?style=for-the-badge&logo=Grafana&logoColor=orange) 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CsarNarciso&hide=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=jolly)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CsarNarciso&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=CsarNarciso&include-all-commits=true&count-private=true&show-icons=true&line-height=30&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CsarNarciso&langs-count=6&theme=tokyonight)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CsarNarciso)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
