@@ -19,10 +19,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CsarNarciso&hide=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=jolly)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CsarNarciso&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CsarNarciso)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CsarNarciso&layout=pie&theme=neon)](https://github.com/anuraghazra/github-readme-stats)
 
 
 | Spring Frameworks | Tools & Other Languages | Architectures | 
