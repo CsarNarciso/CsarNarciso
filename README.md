@@ -20,7 +20,8 @@
 
 
 
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=CsarNarciso&&include-all-commits=true&count-private=true&show-icons=true&line-height=30&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CsarNarciso&langs_count=6&theme=tokyonight)
 
 
 
