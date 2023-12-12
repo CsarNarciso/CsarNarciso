@@ -17,9 +17,9 @@
 ![Agile](https://img.shields.io/badge/Agile%20Architecture-white?style=for-the-badge) 
 ![Grafana](https://img.shields.io/badge/Grafana-white?style=for-the-badge&logo=Grafana&logoColor=orange) 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CsarNarciso&hide=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=jolly)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CsarNarciso&hide=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=midnight-purple)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CsarNarciso&layout=pie&theme=neon)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CsarNarciso&layout=pie&theme=maroongold)](https://github.com/anuraghazra/github-readme-stats)
 
 
 | Spring Frameworks | Tools & Other Languages | Architectures | 
