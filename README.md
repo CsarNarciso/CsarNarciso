@@ -6,7 +6,7 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-white?style=for-the-badge&logo=Kubernetes&logoColor=blue) 
 ![OAuth 2.0](https://img.shields.io/badge/OAuth%202.0-black?style=for-the-badge) 
 ![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=Amazon%20AWS&logoColor=yellow) 
-![Cassandra](https://img.shields.io/badge/Cassandra-E1E1E1?style=for-the-badge&logo=apachecassandra&logoColor=blue)
+![Jenkins](https://img.shields.io/badge/Jenkins-white?style=for-the-badge&logo=Jenkins&logoColor=black)
  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-6284A7?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![Agile](https://img.shields.io/badge/Agile%20Architecture-white?style=for-the-badge) 
@@ -14,11 +14,9 @@
 ![Kibana](https://img.shields.io/badge/Kibana-white?style=for-the-badge&logo=Kibana&logoColor=F76FB1) 
 
 ![Keycloak](https://img.shields.io/badge/Keycloak-6DB33F?style=for-the-badge&logo=Springsecurity&logoColor=black) 
-![MongoDB](https://img.shields.io/badge/MongoDb-white?style=for-the-badge&logo=MongoDb&logoColor=gren) 
 ![Web Flux](https://img.shields.io/badge/WebFlux-6DB33F?style=for-the-badge&logo=Spring&logoColor=black) 
 ![Angular](https://img.shields.io/badge/Angular-white?style=for-the-badge&logo=Angular&logoColor=DC2B00) 
 ![Redis](https://img.shields.io/badge/Redis-black?style=for-the-badge&logo=redis&logoColor=D5540F) 
-![HTML](https://img.shields.io/badge/HTML-E34F26?logo=HTML5&logoColor=white&style=for-the-badge)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CsarNarciso&hide=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=midnight-purple)
