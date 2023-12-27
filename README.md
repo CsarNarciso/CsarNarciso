@@ -3,15 +3,15 @@
 ----------------------
 
 ### Im learning ♥  
-![Kubernetes](https://img.shields.io/badge/Kubernetes-white?style=for-the-badge&logo=Kubernetes&logoColor=blue) 
-![OAuth 2.0](https://img.shields.io/badge/OAuth%202.0-black?style=for-the-badge) 
-![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=Amazon%20AWS&logoColor=yellow) 
 ![Jenkins](https://img.shields.io/badge/Jenkins-white?style=for-the-badge&logo=Jenkins&logoColor=black)
- 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-6284A7?style=for-the-badge&logo=postgresql&logoColor=white) 
-![Agile](https://img.shields.io/badge/Agile%20Architecture-white?style=for-the-badge) 
 ![GitLab](https://img.shields.io/badge/GitLab-black?style=for-the-badge&logo=GitLab&logoColor=orange) 
+![OAuth 2.0](https://img.shields.io/badge/OAuth%202.0-black?style=for-the-badge) 
+
+![Agile](https://img.shields.io/badge/Agile%20Architecture-white?style=for-the-badge) 
+![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=Amazon%20AWS&logoColor=yellow) 
 ![Kibana](https://img.shields.io/badge/Kibana-white?style=for-the-badge&logo=Kibana&logoColor=F76FB1) 
+![Kubernetes](https://img.shields.io/badge/Kubernetes-white?style=for-the-badge&logo=Kubernetes&logoColor=blue) 
 
 ![Keycloak](https://img.shields.io/badge/Keycloak-6DB33F?style=for-the-badge&logo=Springsecurity&logoColor=black) 
 ![Web Flux](https://img.shields.io/badge/WebFlux-6DB33F?style=for-the-badge&logo=Spring&logoColor=black) 
