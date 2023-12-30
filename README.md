@@ -3,9 +3,10 @@
 ----------------------
 
 ### Im learning ♥  
+![Maven](https://img.shields.io/badge/Maven-white?style=for-the-badge&logo=apachemaven&logoColor=C71A36)
 ![Jenkins](https://img.shields.io/badge/Jenkins-white?style=for-the-badge&logo=Jenkins&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-6284A7?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![GitLab](https://img.shields.io/badge/GitLab-black?style=for-the-badge&logo=GitLab&logoColor=orange) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-6284A7?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![OAuth 2.0](https://img.shields.io/badge/OAuth%202.0-black?style=for-the-badge) 
 
 ![Agile](https://img.shields.io/badge/Agile%20Architecture-white?style=for-the-badge) 
