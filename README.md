@@ -3,15 +3,15 @@
 ----------------------
 
 ### Im learning ♥  
-![Java/Spring testing](https://img.shields.io/badge/Testing-6DB33F?style=for-the-badge&logo=Spring&logoColor=black)
+![Mockito](https://img.shields.io/badge/Mockito-97979A?style=for-the-badge&logo=Spring&logoColor=499848)
+![Junit5](https://img.shields.io/badge/Junit5-C75D06?style=for-the-badge&logo=Junit5&logoColor=25A162)
 ![Jenkins](https://img.shields.io/badge/Jenkins-white?style=for-the-badge&logo=Jenkins&logoColor=black)
-![GitLab](https://img.shields.io/badge/GitLab-black?style=for-the-badge&logo=GitLab&logoColor=orange) 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-6284A7?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![OAuth 2.0](https://img.shields.io/badge/OAuth%202.0-black?style=for-the-badge) 
 
 ![Agile](https://img.shields.io/badge/Agile%20Architecture-white?style=for-the-badge) 
 ![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=Amazon%20AWS&logoColor=yellow) 
-![Kibana](https://img.shields.io/badge/Kibana-white?style=for-the-badge&logo=Kibana&logoColor=F76FB1) 
+![Kibana](https://img.shields.io/badge/Kibana-4DB694?style=for-the-badge&logo=Kibana&logoColor=F76FB1) 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-white?style=for-the-badge&logo=Kubernetes&logoColor=blue) 
 
 ![Keycloak](https://img.shields.io/badge/Keycloak-black?style=for-the-badge&logo=Springsecurity&logoColor=blue) 
