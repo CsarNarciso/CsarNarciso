@@ -3,18 +3,21 @@
 ----------------------
 
 ### I'm learning ♥  
-![Junit5](https://img.shields.io/badge/Junit5-C75D06?style=for-the-badge&logo=Junit5&logoColor=25A162)
+![Junit5](https://img.shields.io/badge/Junit-C75D06?style=for-the-badge&logo=Junit5&logoColor=black)
 ![Mockito](https://img.shields.io/badge/Mockito-97979A?style=for-the-badge&logo=Spring&logoColor=499848)
 ![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=Cucumber&logoColor=black)
-![Jenkins](https://img.shields.io/badge/Jenkins-white?style=for-the-badge&logo=Jenkins&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-6284A7?style=for-the-badge&logo=postgresql&logoColor=white) 
-![OAuth 2.0](https://img.shields.io/badge/OAuth%202.0-black?style=for-the-badge) 
+![Serenity](https://img.shields.io/badge/Serenity%20BDD-black?style=for-the-badge)
+![Jacoco](https://img.shields.io/badge/Jacoco-white?style=for-the-badge&logo=Jacoco&logoColor=red)
+![SonarQube](https://img.shields.io/badge/sonarqube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
 
 ![Agile](https://img.shields.io/badge/Agile%20Architecture-white?style=for-the-badge) 
-![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=Amazon%20AWS&logoColor=yellow) 
-![Kibana](https://img.shields.io/badge/Kibana-4DB694?style=for-the-badge&logo=Kibana&logoColor=F76FB1) 
+![Jenkins](https://img.shields.io/badge/Jenkins-white?style=for-the-badge&logo=Jenkins&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-6284A7?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-white?style=for-the-badge&logo=Kubernetes&logoColor=blue) 
+![OAuth 2.0](https://img.shields.io/badge/OAuth%202.0-black?style=for-the-badge) 
+![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=Amazon%20AWS&logoColor=yellow) 
 
+![Kibana](https://img.shields.io/badge/Kibana-4DB694?style=for-the-badge&logo=Kibana&logoColor=F76FB1) 
 ![Keycloak](https://img.shields.io/badge/Keycloak-black?style=for-the-badge&logo=Springsecurity&logoColor=blue) 
 ![Web Flux](https://img.shields.io/badge/WebFlux-6DB33F?style=for-the-badge&logo=Spring&logoColor=black) 
 ![Angular](https://img.shields.io/badge/Angular-white?style=for-the-badge&logo=Angular&logoColor=DC2B00) 
