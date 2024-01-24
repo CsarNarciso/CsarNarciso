@@ -3,8 +3,9 @@
 ----------------------
 
 ### I'm learning ♥  
-![Mockito](https://img.shields.io/badge/Mockito-97979A?style=for-the-badge&logo=Spring&logoColor=499848)
 ![Junit5](https://img.shields.io/badge/Junit5-C75D06?style=for-the-badge&logo=Junit5&logoColor=25A162)
+![Mockito](https://img.shields.io/badge/Mockito-97979A?style=for-the-badge&logo=Spring&logoColor=499848)
+![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=Cucumber&logoColor=black)
 ![Jenkins](https://img.shields.io/badge/Jenkins-white?style=for-the-badge&logo=Jenkins&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-6284A7?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![OAuth 2.0](https://img.shields.io/badge/OAuth%202.0-black?style=for-the-badge) 
