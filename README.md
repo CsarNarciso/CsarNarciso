@@ -5,13 +5,15 @@
 ### I'm learning ♥  
 
 ![Jenkins](https://img.shields.io/badge/Jenkins-white?style=for-the-badge&logo=Jenkins&logoColor=black)
-![Agile](https://img.shields.io/badge/Agile%20Architecture-white?style=for-the-badge) 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-6284A7?style=for-the-badge&logo=postgresql&logoColor=white) 
-![Kubernetes](https://img.shields.io/badge/Kubernetes-white?style=for-the-badge&logo=Kubernetes&logoColor=blue) 
+![Lombok](https://img.shields.io/badge/Lombok-red?style=for-the-badge)
 ![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=Cucumber&logoColor=black)
+![Jira](https://img.shields.io/badge/Jira-white?style=for-the-badge&logo=Jira&logoColor=0052CC)
+![SonarQube](https://img.shields.io/badge/sonarqube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-white?style=for-the-badge&logo=Kubernetes&logoColor=blue) 
 
 ![Serenity](https://img.shields.io/badge/Serenity%20BDD-black?style=for-the-badge)
-![SonarQube](https://img.shields.io/badge/sonarqube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile%20Architecture-white?style=for-the-badge) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-6284A7?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![OAuth 2.0](https://img.shields.io/badge/OAuth%202.0-black?style=for-the-badge) 
 ![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=Amazon%20AWS&logoColor=yellow) 
 
