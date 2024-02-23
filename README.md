@@ -4,23 +4,22 @@
 
 ### I'm learning ♥  
 
-![SonarQube](https://img.shields.io/badge/sonarqube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/Argo%20CD-white?style=for-the-badge&logo=Argo&logoColor=orange)
-![Agile](https://img.shields.io/badge/Agile%20Architecture-white?style=for-the-badge) 
 ![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=Amazon%20AWS&logoColor=yellow) 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-white?style=for-the-badge&logo=Kubernetes&logoColor=blue) 
+![Spring batch](https://img.shields.io/badge/Spring%20Batch-white?style=for-the-badge&logo=Springsecurity&logoColor=6DB33F) 
+![SonarQube](https://img.shields.io/badge/sonarqube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
 
-![Serenity](https://img.shields.io/badge/Serenity%20BDD-black?style=for-the-badge)
-![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=Cucumber&logoColor=black)
-![Jira](https://img.shields.io/badge/Jira-white?style=for-the-badge&logo=Jira&logoColor=0052CC)
+![ArgoCD](https://img.shields.io/badge/Argo%20CD-white?style=for-the-badge&logo=Argo&logoColor=orange)
+![Angular](https://img.shields.io/badge/Angular-white?style=for-the-badge&logo=Angular&logoColor=DC2B00) 
+![React](https://img.shields.io/badge/React-white?style=for-the-badge&logo=React&logoColor=blue) 
 ![Lombok](https://img.shields.io/badge/Lombok-red?style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-6284A7?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![OAuth 2.0](https://img.shields.io/badge/OAuth%202.0-black?style=for-the-badge) 
 
-![Kibana](https://img.shields.io/badge/Kibana-4DB694?style=for-the-badge&logo=Kibana&logoColor=F76FB1) 
-![Keycloak](https://img.shields.io/badge/Keycloak-black?style=for-the-badge&logo=Springsecurity&logoColor=blue) 
+![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=Cucumber&logoColor=black)
+![Jira](https://img.shields.io/badge/Jira-white?style=for-the-badge&logo=Jira&logoColor=0052CC)
+![Serenity](https://img.shields.io/badge/Serenity%20BDD-black?style=for-the-badge)
 ![Web Flux](https://img.shields.io/badge/WebFlux-6DB33F?style=for-the-badge&logo=Spring&logoColor=black) 
-![Angular](https://img.shields.io/badge/Angular-white?style=for-the-badge&logo=Angular&logoColor=DC2B00) 
 ![Redis](https://img.shields.io/badge/Redis-black?style=for-the-badge&logo=redis&logoColor=D5540F) 
 
 
@@ -44,4 +43,4 @@
 
 | Operating System: | 
 |-| 
-| ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=3D03A7) |
+| ![Linux Mint](https://img.shields.io/badge/Linux-white?style=for-the-badge&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=3D03A7) |
