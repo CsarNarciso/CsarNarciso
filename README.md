@@ -6,7 +6,7 @@
 
 ![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=Amazon%20AWS&logoColor=yellow) 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-white?style=for-the-badge&logo=Kubernetes&logoColor=blue) 
-![Spring batch](https://img.shields.io/badge/Spring%20Batch-white?style=for-the-badge&logo=Springsecurity&logoColor=6DB33F) 
+![Spring batch](https://img.shields.io/badge/Spring%20Batch-6DB33F?style=for-the-badge&logo=Spring&logoColor=black) 
 ![SonarQube](https://img.shields.io/badge/sonarqube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
 
 ![ArgoCD](https://img.shields.io/badge/Argo%20CD-white?style=for-the-badge&logo=Argo&logoColor=orange)
