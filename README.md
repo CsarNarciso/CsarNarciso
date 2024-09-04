@@ -4,18 +4,19 @@
 
 ### I'm learning ♥  
 
+![Keycloak](https://img.shields.io/badge/Keycloak-white?logo=Spring%20Security&logoColor=blue&style=for-the-badge)
+![OAuth 2.0](https://img.shields.io/badge/OAuth%202.0-black?style=for-the-badge) 
+![Redis](https://img.shields.io/badge/Redis-black?style=for-the-badge&logo=redis&logoColor=D5540F) 
+![SonarQube](https://img.shields.io/badge/sonarqube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
 
 ![React](https://img.shields.io/badge/React-white?style=for-the-badge&logo=React&logoColor=blue) 
-![OAuth 2.0](https://img.shields.io/badge/OAuth%202.0-black?style=for-the-badge) 
 ![Web Flux](https://img.shields.io/badge/WebFlux-6DB33F?style=for-the-badge&logo=Spring&logoColor=black) 
 ![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=Amazon%20AWS&logoColor=yellow) 
-![Spring batch](https://img.shields.io/badge/Spring%20Batch-6DB33F?style=for-the-badge&logo=Spring&logoColor=black) 
 
-![SonarQube](https://img.shields.io/badge/sonarqube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+![Spring batch](https://img.shields.io/badge/Spring%20Batch-6DB33F?style=for-the-badge&logo=Spring&logoColor=black) 
 ![ArgoCD](https://img.shields.io/badge/Argo%20CD-white?style=for-the-badge&logo=Argo&logoColor=orange)
 ![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=Cucumber&logoColor=black)
 ![Jira](https://img.shields.io/badge/Jira-white?style=for-the-badge&logo=Jira&logoColor=0052CC)
-![Redis](https://img.shields.io/badge/Redis-black?style=for-the-badge&logo=redis&logoColor=D5540F) 
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CsarNarciso&hide=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=midnight-purple)
