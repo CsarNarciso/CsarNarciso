@@ -3,12 +3,14 @@
 ----------------------
 
 ### I'm learning ♥  
- 
+
+![Swagger](https://img.shields.io/badge/Swagger-lime?style=for-the-badge&logo=swagger&logoColor=white)
+![Cassandra](https://img.shields.io/badge/Cassandra-white?style=for-the-badge&logo=ApacheCassandra&logoColor=blue) 
 ![SonarQube](https://img.shields.io/badge/sonarqube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
 ![React](https://img.shields.io/badge/React-white?style=for-the-badge&logo=React&logoColor=blue) 
 ![Web Flux](https://img.shields.io/badge/WebFlux-6DB33F?style=for-the-badge&logo=Spring&logoColor=black) 
-![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=Amazon%20AWS&logoColor=yellow) 
 
+![AWS](https://img.shields.io/badge/AWS-333232?style=for-the-badge&logo=AmazonWebServices&logoColor=yellow) 
 ![Spring batch](https://img.shields.io/badge/Spring%20Batch-6DB33F?style=for-the-badge&logo=Spring&logoColor=black) 
 ![ArgoCD](https://img.shields.io/badge/Argo%20CD-white?style=for-the-badge&logo=Argo&logoColor=orange)
 ![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=Cucumber&logoColor=black)
