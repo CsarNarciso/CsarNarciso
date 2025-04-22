@@ -4,6 +4,7 @@
 
 ### I'm learning ♥  
 
+![Mongo](https://img.shields.io/badge/Mongo-23D96C?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SonarQube](https://img.shields.io/badge/sonarqube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
 ![React](https://img.shields.io/badge/React-white?style=for-the-badge&logo=React&logoColor=blue) 
 ![Web Flux](https://img.shields.io/badge/WebFlux-6DB33F?style=for-the-badge&logo=Spring&logoColor=black) 
