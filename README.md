@@ -5,7 +5,7 @@
 ### I'm learning ♥  
 
 ![Mongo](https://img.shields.io/badge/Mongo-23D96C?style=for-the-badge&logo=mongodb&logoColor=white)
-![Oracle DB](https://img.shields.io/badge/OracleDB-orange?style=for-the-badge&logo=oracle&logoColor=white)
+![Oracle DB](https://img.shields.io/badge/Oracle%20DB-orange?style=for-the-badge&logo=oracle&logoColor=white)
 ![.NET](https://img.shields.io/badge/Framework-white?style=for-the-badge&logo=.net&logoColor=purple)
 
 ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -31,7 +31,8 @@
 ----------------------
 
 # Im looking for my first dev job ♥ 
-### <img align="center" width="70" src="https://i.pinimg.com/originals/0d/c9/68/0dc968448592a7d533096b74c263cc40.gif" />Contact with me!
+### Contact with me!
+<img align="center" width="70" src="https://i.pinimg.com/originals/0d/c9/68/0dc968448592a7d533096b74c263cc40.gif" />
 
 <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=cesarpazol1029@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/cesar-pozol-narciso-b48727180/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
