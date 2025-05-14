@@ -1,5 +1,3 @@
-<img align="center" width="1500" src="https://thumbs.gfycat.com/TartThreadbareChinchilla-size_restricted.gif" />
-
 ----------------------
 
 ### I'm learning ♥  
@@ -11,10 +9,20 @@
 ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![React](https://img.shields.io/badge/React-white?style=for-the-badge&logo=React&logoColor=blue)
 
+---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CsarNarciso&hide=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=midnight-purple)
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CsarNarciso&theme=2077" />
+  <br/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CsarNarciso&theme=2077" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CsarNarciso&theme=2077" />
+  <br/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CsarNarciso&theme=2077" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CsarNarciso&theme=2077&utcOffset=8" />
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CsarNarciso&layout=pie&theme=maroongold)](https://github.com/anuraghazra/github-readme-stats)
+---
+
 
 ### I've worked with
 
