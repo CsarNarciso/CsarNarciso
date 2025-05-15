@@ -1,16 +1,3 @@
-----------------------
-
-### I'm learning ♥  
-
-![Mongo](https://img.shields.io/badge/Mongo-23D96C?style=for-the-badge&logo=mongodb&logoColor=white)
-![Oracle DB](https://img.shields.io/badge/Oracle%20DB-orange?style=for-the-badge&logo=oracle&logoColor=white)
-![.NET](https://img.shields.io/badge/Framework-white?style=for-the-badge&logo=.net&logoColor=purple)
-
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus&logoColor=white)
-![React](https://img.shields.io/badge/React-white?style=for-the-badge&logo=React&logoColor=blue)
-
----
-
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CsarNarciso&theme=2077" />
   <br/>
@@ -20,6 +7,20 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CsarNarciso&theme=2077" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CsarNarciso&theme=2077&utcOffset=8" />
 </div>
+
+----------------------
+
+### I'm learning ♥  
+
+![NodeJS](https://img.shields.io/badge/NodeJS-green?style=for-the-badge&logo=nodejs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-white?style=for-the-badge&logo=express&logoColor=green)
+![Mongo](https://img.shields.io/badge/Mongo-23D96C?style=for-the-badge&logo=mongodb&logoColor=white)
+![React](https://img.shields.io/badge/React-white?style=for-the-badge&logo=React&logoColor=blue)
+
+![Oracle DB](https://img.shields.io/badge/Oracle%20DB-orange?style=for-the-badge&logo=oracle&logoColor=white)
+![.NET](https://img.shields.io/badge/Framework-white?style=for-the-badge&logo=.net&logoColor=purple)
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus&logoColor=white)
+
 
 ---
 
