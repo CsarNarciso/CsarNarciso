@@ -1,3 +1,5 @@
+# Im looking for my first dev job ♥ 
+
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CsarNarciso&theme=2077" />
   <br/>
@@ -39,7 +41,6 @@
 
 ----------------------
 
-# Im looking for my first dev job ♥ 
 ### Contact with me!
 <img align="center" width="70" src="https://i.pinimg.com/originals/0d/c9/68/0dc968448592a7d533096b74c263cc40.gif" />
 
