@@ -1,7 +1,8 @@
 <div align="center">
 
   # Im looking for my first dev job ♥ 
-  
+  ![LinkedIn Background](https://github.com/user-attachments/assets/ad600738-1bab-4bd8-994a-6b79551d01f4)
+
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CsarNarciso&theme=2077" />
   <br/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CsarNarciso&theme=2077" />
