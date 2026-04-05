@@ -10,10 +10,6 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CsarNarciso&theme=2077" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CsarNarciso&theme=2077&utcOffset=8" />
   
-  | My Stack ♥ | 
-  |-|
-  | ![Java](https://img.shields.io/badge/Java-white?logo=java&logoColor=orange&style=for-the-badge) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=Spring%20Boot&logoColor=black&style=for-the-badge) ![NodeJS](https://img.shields.io/badge/NodeJS-green?style=for-the-badge&logo=nodejs&logoColor=white) ![Express](https://img.shields.io/badge/Express-white?style=for-the-badge&logo=express&logoColor=green) ![C# DotNet](https://img.shields.io/badge/Sharp-620EA5?style=for-the-badge&logo=c&logoColor=white) ![Mongo](https://img.shields.io/badge/Mongo-23D96C?style=for-the-badge&logo=mongodb&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-333232?style=for-the-badge&logo=AmazonWebServices&logoColor=yellow) ![Redis](https://img.shields.io/badge/Redis-black?style=for-the-badge&logo=redis&logoColor=D5540F) ![Jenkins](https://img.shields.io/badge/Jenkins-white?style=for-the-badge&logo=Jenkins&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-white?style=for-the-badge&logo=docker&logoColor=4DB1E0) ![Kafka](https://img.shields.io/badge/Apache%20Kafka-white?style=for-the-badge&logo=Apache%20Kafka&logoColor=black) ![Git](http://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=Git&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-6284A7?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | 
-  
   
   ### Contact with me!
   <img align="center" width="70" src="https://i.pinimg.com/originals/0d/c9/68/0dc968448592a7d533096b74c263cc40.gif" />
